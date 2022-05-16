@@ -1,0 +1,7 @@
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\bin\ImageGallery.dll.config
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\bin\ImageGallery.dll
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\bin\ImageGallery.pdb
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csproj.AssemblyReference.cache
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csproj.CoreCompileInputs.cache
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\obj\Debug\ImageGallery.dll
+C:\Users\TechNorider\source\repos\ImageGallery\ImageGallery\obj\Debug\ImageGallery.pdb
